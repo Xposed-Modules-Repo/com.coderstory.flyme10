@@ -14,8 +14,13 @@
 
 侧滑返回震动
 
+
 隐藏状态看网速
 
 主题和谐
 
 ...
+
+
+![2222222222222](https://github.com/Xposed-Modules-Repo/com.coderstory.flyme10/assets/11525359/53d69d69-d907-4969-baa2-98a0e80247c9)
+
